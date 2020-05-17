@@ -7,7 +7,7 @@ import androidx.appcompat.widget.Toolbar;
 import es.uah.cc.todomanager.R;
 
 /**
- * Una actividad que representa una lista de tareas.
+ * Una actividad que representa la lista de tareas a realizar.
  * @author Fernando García Molino Ejr.de Arturo
  * @version 1.0
  */
