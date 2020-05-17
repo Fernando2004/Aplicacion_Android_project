@@ -31,7 +31,7 @@ public class ContactActivity extends AppCompatActivity implements SendMessageDia
 
     @Override
     public void onCancel() {
-// Nothing to do.
+    // Nothing to do.
     }
 }
 
